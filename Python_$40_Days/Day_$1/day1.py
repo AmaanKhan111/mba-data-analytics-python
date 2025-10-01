@@ -24,7 +24,7 @@ print("Hello, Business Analytics!")
  # Variables & Data Types
 # Integer
 x = 10
-print(type(x))  # int
+print(type(x))  # integer
 
 # Float
 y = 10.5
@@ -32,11 +32,11 @@ print(type(y))  # float
 
 # String
 name = "Amaan"
-print(type(name))  # str
+print(type(name))  # string
 
 # Boolean
 is_data = True
-print(type(is_data))  # bool
+print(type(is_data))  # boolean
 
  # Multiple Assignments
 a, b, c = 5, 10, 15

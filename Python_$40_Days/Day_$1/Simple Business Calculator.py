@@ -3,11 +3,11 @@
 
  #Calculate and print profit and profit margin %
 
-revenue = float(input("Enter revenue: "))
-cost = float(input("Enter cost: "))
+revenue = float(input("Please Enter revenue: "))
+cost = float(input("Please Enter cost: "))
 
 profit = revenue - cost
-margin = (profit / revenue) * 100
+margin = (profit/revenue) * 100
 
 print("Profit:", profit)
-print("Profit Margin:", margin, "%")
+print("Profit Margin:", margin,"%")
