@@ -1,0 +1,23 @@
+Python Programming (Zero-Hero)
+Data Science/Analytics (Zero to advance)
+Mathematics (Zero to advance)
+Statistics (Zero to advance)
+Microsoft Excel (Zero to advance)
+Markdown Language (Zero to advance)
+SQL (Zero to advance)
+Machine Learning (Zero to advance)
+Deep Learning (Zero to advance)
+Time Series Analysis (Zero to advance)
+Transfer Learning
+Genertive AI
+Web App Development (Zero to advance)
+Web App Deployment (Zero to advance)
+NLP (Basics-Intermediate)
+Lang Chain Crash Course
+Software Development using Python (Basics)
+Web development using WordPress (Zero to advance)
+Web Development Using Flask/Fast API/Django (Zero to advance)
+Blogging (Zero to advance)
+Social Media Handling and Analysis (Zero to advance)
+How to earn Online using Data Science and AI (Zero to advance)
+Google AdSense Crash Course (Zero to advance)
