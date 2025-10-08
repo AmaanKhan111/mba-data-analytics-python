@@ -33,4 +33,4 @@ if uploaded_file:
             st.subheader("📈 Ratio Visualization")
             st.pyplot(plot_ratios(ratios))
 else:
-    st.info("👆 Upload your financial file to get started.")
+    st.info(" Upload your financial file to get started.")

@@ -5,4 +5,7 @@ seaborn
 streamlit
 openpyxl
 scikit-learn
-
+streamlit
+pandas
+numpy
+openpyxl
