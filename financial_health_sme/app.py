@@ -34,3 +34,4 @@ if uploaded_file:
             st.pyplot(plot_ratios(ratios))
 else:
     st.info(" Upload your financial file to get started.")
+
